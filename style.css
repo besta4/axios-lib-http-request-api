@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    font-size: xx-large;
+    background-color: burlywood;
+    padding: 1.3rem;
+    width: 100vw;
+    text-align: center ;
+}
+
+footer{
+    font-size: large;
+    background-color: rgb(21, 18, 14);
+    color: white;
+    width: 100vw;
+    text-align: center ; 
+    position: fixed;
+    bottom: 0;
+}
+
+div {
+    border: 3px solid black;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    display: block;
+}
+
+div button {
+    margin: 0.3rem;
+}
+
+div h4{
+    text-align: center;
+}
+
+div img{
+    height: 5rem;
+    width: 5rem;
+    position: relative;
+    left: 43%;
+}
+
+div p{
+    margin: 1rem;
+}
+
+div ul{
+    margin-left: 3rem;
+}
+
+div ul li{
+    margin: 0.3rem;
+}
+
+div ul li a{
+    text-decoration: none;
+}
